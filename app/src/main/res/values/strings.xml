@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cryptography</string>
+
+    <string name="encrypt_text">Encrypt</string>
+    <string name="decrypt_text">Decrypt</string>
+    <string name="secure_your_message_text">Secure your message</string>
+    <string name="crpytography_text">Crpytography</string>
+    <string name="encrypt_title_text">ENCRYPT</string>
+    <string name="encrypt_message_text">Encrypt Message</string>
+    <string name="encrypt_code_text">Encrypt Code</string>
+    <string name="message_text">Message</string>
+    <string name="decrypt_title_text">DECRYPT</string>
+    <string name="decrypt_your_message_text">Decrypt your message</string>
+    <string name="chiper_code_text">Chiper Code</string>
+    <string name="chiper_message_text">Chiper Message</string>
+</resources>
